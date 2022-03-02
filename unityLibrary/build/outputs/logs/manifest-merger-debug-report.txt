@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+	package
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:70-98
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:1-107:12
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:4:3-19:17
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:111-149
+	android:launchMode
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:150-181
+	android:hardwareAccelerated
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:399-434
+	android:resizeableActivity
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:364-398
+	android:configChanges
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:182-363
+	android:theme
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:69-110
+	android:usesCleartextTraffic
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:6:9-44
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:7:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:8:9-61
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:8:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:9:9-69
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:9:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:11:18-58
+meta-data#android.notch_support
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:12:7-78
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:12:18-54
+meta-data#unity.splash-mode
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:15:16-50
+meta-data#unity.allow-resizable-window
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:16:5-84
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:16:60-81
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:16:16-59
+meta-data#notch.config
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:17:5-81
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:17:44-78
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:17:16-43
+meta-data#unity.build-id
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:18:5-101
+	android:value
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:18:46-98
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:18:16-45
+uses-feature#0x00030000
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:20:3-52
+	android:glEsVersion
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:20:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:21:3-91
+	android:required
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:21:64-88
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:21:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:24:17-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:27:3-76
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:27:20-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:28:3-64
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:28:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:29:3-78
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:29:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:30:3-77
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:30:20-75
+queries
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:37:3-105:13
+package#com.nhnent.payapp
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:49:5-49
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:49:14-46
+package#com.lottemembers.android
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:50:5-56
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:50:14-53
+package#com.ssg.serviceapp.android.egiftcertificate
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:51:5-75
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:51:14-72
+package#com.inicis.kpay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:52:5-47
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:52:14-44
+package#com.tmoney.tmpay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:53:5-48
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:53:14-45
+package#viva.republica.toss
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:54:5-51
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:54:14-48
+package#com.kakao.talk
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:55:5-46
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:55:14-43
+package#com.mysmilepay.app
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:56:5-50
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:56:14-47
+package#com.lotte.lpay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:57:5-46
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:57:14-43
+package#finance.chai.app
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:58:5-48
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:58:14-45
+package#com.nhn.android.search
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:59:5-54
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:59:14-51
+package#kvp.jjy.MispAndroid320
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:62:5-54
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:62:14-51
+package#com.kbcard.kbkookmincard
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:63:5-56
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:63:14-53
+package#com.kbcard.cxh.appcard
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:64:5-54
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:64:14-51
+package#com.kbstar.liivbank
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:65:5-51
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:65:14-48
+package#com.kbstar.reboot
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:66:5-49
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:66:14-46
+package#com.samsung.android.spay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:67:5-56
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:67:14-53
+package#com.samsung.android.spaylite
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:68:5-60
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:68:14-57
+package#com.lge.lgpay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:69:5-45
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:69:14-42
+package#com.hanaskcard.paycla
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:70:5-53
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:70:14-50
+package#kr.co.hanamembers.hmscustomer
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:71:5-61
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:71:14-58
+package#com.lcacApp
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:72:5-43
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:72:14-40
+package#kr.co.samsungcard.mpocket
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:73:5-57
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:73:14-54
+package#com.shcard.smartpay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:74:5-51
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:74:14-48
+package#com.shinhancard.smartshinhan
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:75:5-60
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:75:14-57
+package#com.hyundaicard.appcard
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:76:5-55
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:76:14-52
+package#nh.smart.nhallonepay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:77:5-52
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:77:14-49
+package#com.wooricard.wpay
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:78:5-50
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:78:14-47
+package#com.wooricard.smartapp
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:79:5-54
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:79:14-51
+package#com.wooribank.smart.npib
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:80:5-56
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:80:14-53
+package#kr.co.citibank.citimobile
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:81:5-57
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:81:14-54
+package#com.kftc.bankpay.android
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:85:5-56
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:85:14-53
+package#com.kbankwith.smartbank
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:86:5-55
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:86:14-52
+package#com.knb.psb
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:87:5-43
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:87:14-40
+package#kr.co.kfcc.mobilebank
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:88:5-53
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:88:14-50
+package#com.nh.cashcardapp
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:89:5-50
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:89:14-47
+package#com.hanaskcard.rocomo.potal
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:92:5-59
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:92:14-56
+package#com.lumensoft.touchenappfree
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:93:5-60
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:93:14-57
+package#com.TouchEn.mVaccine.webs
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:97:5-57
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:97:14-54
+package#kr.co.shiftworks.vguardweb
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:98:5-58
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:98:14-55
+package#com.ahnlab.v3mobileplus
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:99:5-55
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:99:14-52
+package#com.kt.ktauth
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:102:5-45
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:102:14-42
+package#kr.danal.app.damoum
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:103:5-51
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:103:14-48
+package#uplus.membership
+ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:104:5-48
+	android:name
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml:104:14-45
+uses-sdk
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/bootpay/bootpayPlugins/clients/unity/bootpayUnity/android2/unityLibrary/src/main/AndroidManifest.xml
